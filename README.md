@@ -3,14 +3,10 @@
 
 ## Prework Study Guide
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation? The motivation is to build a foundamental knowledge and skill set for web developers
-- Why did you build this project? The world changes by software fast, and the best wat to surpass is to understand.
+- The motivation is to build a foundamental knowledge and skill set for web developers
+- The world changes by software fast, and the best wat to surpass is to understand.
 - What problem does it solve? This study guide shows the interaction between different tools: HTML, CSS, JavaScript
-- What did you learn?
-
-
+- I leaned to code a webpage with HTML, CSS and JavaScipt
 
 ## Installation
 
